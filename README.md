@@ -1,6 +1,6 @@
 <img src="https://github.com/Sergio-a11/Sergio-a11/blob/94665438cf92a0a72b2673962f1417c3ca7b99b0/readme.jpg"/>
 
-### I'm a developer with focus in backend technologies and project manangement
+### I'm a developer with focus in backend technologies and project management
 
 ### About Me 🧔
 I am a cunning person to solve problems. I'm more passionate than common person to know How the things works or was made? I kwon how to lead a team or work in a team by Scrum or RUP methodology. I love to create software solutions to solve common or specific issues. At the moment I'm finishing my college on data systematization that teach me to follow up data path from your physical device until a remote server and back and solve any problem its way. And last but not least I am constantly improving my English skills with the help of a private school.
