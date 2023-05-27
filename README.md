@@ -19,9 +19,6 @@ I am a cunning person to solve problems. I'm more passionate than common person 
   </a>
 </p>
 <h3> Social Media</h3>
-<a href="https://twitter.com/gohandev">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
 <a href="https://www.linkedin.com/in/sergiocruzguerrero">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
